@@ -1,3 +1,3 @@
 # Speech-to-text-Text-to-speech
 Convert Speech-to-text | Text-to-speech in Android Application.
-![alt text](https://github.com/SayaliDalal/Speech-to-text-Text-to-speech/blob/master/App.jpg?raw=true)
+!Speech-to-text-Text-to-speech(https://github.com/SayaliDalal/Speech-to-text-Text-to-speech/master/App.jpg?raw=true)
