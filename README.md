@@ -12,3 +12,7 @@ You can Install and test this app from below 👇
 # Technology
 * Android
 * Java
+
+# Features of the app:
+* User can check the right pronunciation of the word.
+* User can check the right spelling of the word.
